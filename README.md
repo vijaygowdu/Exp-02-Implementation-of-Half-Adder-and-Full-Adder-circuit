@@ -37,6 +37,7 @@ If the output is 1, then the led glows.
 ### Program:
 
 Developed by: k vijay 
+
 RegisterNumber: 23004034 
 
 ### code :
